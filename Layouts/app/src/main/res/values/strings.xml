@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="resetButtonText">Reset</string>
+    <string name="enterFirstNameText">FirstName</string>
+    <string name="enterSecondName">SecondName</string>
+    <string name="enterLastName">LastName</string>
+</resources>
